@@ -146,7 +146,7 @@ namespace IdentityServer4.EntityFramework.Extensions
         }
 
         /// <summary>
-        /// Configures the resources context.
+        /// Configures the resources context!
         /// </summary>
         /// <param name="modelBuilder">The model builder.</param>
         /// <param name="storeOptions">The store options.</param>
